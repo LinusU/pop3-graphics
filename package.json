@@ -1,0 +1,9 @@
+{
+  "name": "@pop3/graphics",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "LinusU/pop3-graphics",
+  "dependencies": {
+    "to-data-view": "^1.0.0"
+  }
+}
